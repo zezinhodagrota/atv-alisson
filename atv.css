@@ -1,0 +1,14 @@
+.inicio{
+display: flex;
+
+}
+.foto{
+    width: 50px;
+    
+}
+.informaçao{
+  display: flex;
+  flex-direction: column;
+   left: 50px;
+   text-align: center;
+}
